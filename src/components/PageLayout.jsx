@@ -30,7 +30,7 @@ export const PageLayout = (props) => {
       <br />
       <br />
       <h5>
-        <center>Welcome to the Microsoft Authentication  - React SPA</center>
+        <center>Microsoft Authentication  - React SPA</center>
       </h5>
       <br />
       <br />
